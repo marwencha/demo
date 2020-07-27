@@ -1,7 +1,7 @@
 function hello()
 {
 
-console.log("bonjour ");
+console.log("bonsoir ");
 }
 #ceci est un commentaire
 hello();
